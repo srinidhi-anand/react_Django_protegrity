@@ -1,0 +1,45 @@
+.header2{
+	padding: 10px 13px 4px 10px;
+	background-color:#E8E8E8;
+	margin-left: -15px !important;
+	
+}
+u:hover{
+	background-color: #ddd;
+	cursor: pointer;
+}
+.btn_add{
+	background-color:#ffffff;
+	padding: 5% 5%;
+}
+.addnew:hover{
+	background-color: #1a73e8;
+	color:white;
+	text-decoration: none;
+}
+.addnew{
+	text-decoration: none;
+	float:right;
+	background-color: #1a73e8;
+	color:white;
+	border: 1px solid transparent;
+	padding: 4px 31px;
+	text-align:center;
+	vertical-align: middle;
+	box-sizing: border-box;
+}
+.inline_class{
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+.newuser:hover{
+	color:#ffffff;
+}
+.newuser{
+	color:#ffffff;
+}
+.search{
+	padding: 14px 15px;
+	vertical-align: top;
+	display:none;
+}
